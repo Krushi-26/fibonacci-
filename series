@@ -1,6 +1,7 @@
 def Fibonacci(n)
+#code of fiboacci series 
   if n<0:
-      print('incorrect input')
+      print('false')
       elif n==1:
          return o
          elif n==2:
